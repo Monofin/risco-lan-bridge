@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TJForc/risco-lan-bridge.git"
+    "url": "git+https://github.com/vanackej/risco-lan-bridge.git"
   },
   "bugs": {
-    "url": "https://github.com/TJForc/risco-lan-bridge/issues"
+    "url": "https://github.com/vanackej/risco-lan-bridge/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -41,5 +41,5 @@
   "author": "TJForc <tjforc@tutanota.com> (https://github.com/TJForc)",
   "contributors": ["vanackej (https://github.com/vanackej)","Monofin (https://github.com/Monofin)"],
   "license": "MIT",
-  "homepage": "https://github.com/TJForc/risco-lan-bridge#readme"
+  "homepage": "https://github.com/vanackej/risco-lan-bridge#readme"
 }
